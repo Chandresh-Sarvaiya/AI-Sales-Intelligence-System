@@ -1,0 +1,4 @@
+Random Forest Results
+Mean Absolute Error: 0.8257087343656492
+Root Mean Squared Error: 1.0813301022243844
+R2 Score: 0.17414691632359713

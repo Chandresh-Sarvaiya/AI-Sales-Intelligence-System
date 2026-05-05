@@ -1,0 +1,4 @@
+Gradient Boosting Results
+Mean Absolute Error: 0.8057466939173804
+Root Mean Squared Error: 1.0430865542186092
+R2 Score: 0.23153002645526277

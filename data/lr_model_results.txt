@@ -1,0 +1,4 @@
+Linear Regression Results
+Mean Absolute Error: 0.8304143609625297
+Root Mean Squared Error: 1.076010788234896
+R2 Score: 0.18225205799617816
