@@ -321,10 +321,6 @@ return pd.read_csv(r"data\rfm_analysis.csv")
 return pd.read_csv("data/rfm_analysis.csv")
 ```
 
-### Quick Rule
-> Use **relative paths** (e.g. `"data/rfm_analysis.csv"`) instead of **absolute paths** (e.g. `"E:/SEM 8/.../rfm_analysis.csv"`). Relative paths work from any machine as long as the folder structure matches the repository.
-
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
