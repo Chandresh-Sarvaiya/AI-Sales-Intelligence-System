@@ -18,7 +18,7 @@
 
 ## 📌 Overview
 
-The **AI Sales Intelligence System** is a complete data science project built on the **UCI Online Retail II Dataset** (~1,066,000 transactions). It combines a PostgreSQL data engineering pipeline, Python machine learning models, and an interactive **Streamlit web application** — delivering real-time customer intelligence to business users.
+The **AI Sales Intelligence System** is a complete data science project built on the **Kaggle — Online Retail Dataset** (~1,066,000 transactions). It combines a PostgreSQL data engineering pipeline, Python machine learning models, and an interactive **Streamlit web application** — delivering real-time customer intelligence to business users.
 
 ### 💼 Key Business Numbers (from real data)
 
@@ -420,7 +420,7 @@ AI-Sales-Intelligence-System/
 
 ## 📄 Dataset
 
-**UCI Online Retail II** — UK-based e-commerce (2009–2011)
+**Kaggle — Online Retail Dataset** — UK-based e-commerce (2009–2011)
 
 | File | Rows |
 |------|------|
@@ -428,14 +428,14 @@ AI-Sales-Intelligence-System/
 | `online_retail_II.csv` | ~541,000 |
 | **Total after cleaning** | **~5,878 unique customers** |
 
-> 📥 Download from [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) — raw CSVs not included in this repo due to file size.
+> 📥 Download the dataset from [Kaggle — Online Retail Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset) — raw CSVs not included in this repo due to file size.
 
 ---
 
 ## 👤 Author
 
 **Chandresh Sarvaiya** — B.Tech Final Year, Semester 8  
-📧 chandreshsarvaiya@gmail.com  
+📧 chandreshsarvaiya656@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/chandresh-sarvaiya-42449325a/) · [GitHub]((https://github.com/Chandresh-Sarvaiya?tab=repositories))
 
 ---
